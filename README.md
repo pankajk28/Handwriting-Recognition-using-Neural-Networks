@@ -1,0 +1,2 @@
+# Handwriting-Recognition-using-Neural-Networks
+Our project aims was to create a functional neural network architecture for accomplishing the task of handwriting recognition. We designed a Multilayer Perceptron (MLP) and convolution neural net (CNN) in Keras with TensorFlow in the backend. We used MNIST database for training our models. Further we tested the designed deep learning model and assessed its efficiency using multiple evaluation criteria and visualizations.
